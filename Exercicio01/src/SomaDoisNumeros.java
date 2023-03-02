@@ -15,6 +15,7 @@ public class SomaDoisNumeros {
 		total = num1+num2;
 		System.out.println("A soma dos números é: "+total);
 		sc.close();
+		System.out.print("teste");
 
 		
 
